@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jonnycolfax
-- 👀 I’m interested in Web3, Crypto, DeFi, NFTs, and the like
-- 🌱 I’m currently learning NextJS
-- 💞️ I’m looking to collaborate on tools to help people reduce transaction gas fees
+- 👀 I’m interested in modern web coding, LLMs, Stable Diffusion, LoRA training, and model finetuning
+- 🌱 I’m currently learning Python, ReactJS, Next.js, and a plethora of AI-related tools
+- 💞️ I’m looking to collaborate on projects that simplify user experiences, especially open source tools
 
 <!---
 jonnycolfax/jonnycolfax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
